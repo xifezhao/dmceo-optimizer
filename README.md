@@ -78,8 +78,6 @@ To run the entire suite of experiments, simply execute the script:
 ```bash
 python dmceo_experiments.py
 ```
-*(请将 `dmceo_experiments.py` 替换为您实际的Python脚本文件名。)*
-
 ### 预期输出 | Expected Output
 
 The script will:
