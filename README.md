@@ -1,7 +1,3 @@
-
-
----
-
 # Harnessing the Edge of Chaos: A Dynamic Memristive Optimization Algorithm
 
 This repository contains the official Python implementation for the paper **"Harnessing the Edge of Chaos: A Dynamic Memristive Optimization Algorithm for Complex Global Optimization."**
@@ -72,8 +68,6 @@ matplotlib
 scipy
 pypower
 ```
-*(您可以在您的仓库中创建一个名为 `requirements.txt` 的文件，并将以上内容粘贴进去。)*
-
 ---
 
 ## 如何运行 | How to Run
@@ -97,7 +91,6 @@ The script will:
 6.  Print progress and completion messages to the console.
 
 A `results` directory will be created automatically if it does not exist.
-
 
 ---
 
